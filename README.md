@@ -4,7 +4,7 @@ Jumio KYX Link Generator is a simple, flexible node based bulk links generator f
 
 ## 📦 Installation
 
-To install the Jumio KYX Link Generator run the command npm i @jumio/websdk in your preferred code editor
+To install the Jumio KYX Link Generator run the command `npm i @jumio/websdk` in your preferred code editor
 
 ## 🚀 Usage
 
