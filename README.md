@@ -4,7 +4,15 @@ Jumio KYX Link Generator is a simple, flexible node based bulk links generator f
 
 ## 📦 Installation
 
-To install the Jumio KYX Link Generator run the command `npm i kyx-link-generator` in your preferred code editor
+To install the Jumio KYX Link Generator follow any of the following methods
+
+A - Git  
+
+Open up terminal and type `git clone https://github.com/sirwillchris/kyx-link-generator.git` and access the main.js 
+
+B - NPM
+In an blank project run 'npm i kyx-link-generator' and navigate to `node_modules > kyx-link-generator > main.js`
+
 
 ## 🚀 Usage
 
@@ -22,6 +30,28 @@ Remember, correctly setting up the correct region and API credentials is crucial
 Once the above configuration is done, run the command
 
 ```bash
+npm start
+```
+
+make sure you are in the `kyx-link-generator` folder, If not 
+```bash
+cd kyx-link-generator
+```
+
+Once you have added all required details in the `main.js` file,
+
+Run
+```bash
+npm start
+```
+
+## ❌ Error
+
+If you see errors like `ENOENT: no such file or directory,`
+
+make sure you are in the correct directory `kyx-link-generator`, If not 
+```bash
+cd kyx-link-generator
 npm start
 ```
 
