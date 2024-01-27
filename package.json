@@ -1,0 +1,48 @@
+{
+  "name": "kyx-link-generator",
+  "version": "1.0.3",
+  "description": "A simple and easy to use KYX Link Generator for Bulk Link generations",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirwillchris/kyx-link-generator.git"
+  },
+  "keywords": [
+    "age-verification",
+    "aml",
+    "aml-screening",
+    "anti-money-laundering",
+    "authentication",
+    "biometric-authentication",
+    "compliance-management",
+    "customer-onboarding",
+    "data-protection",
+    "digital-identity",
+    "doc-proof",
+    "document-verification",
+    "face-matching",
+    "fastfill",
+    "fraud-prevention",
+    "government-database-checks",
+    "id-verification",
+    "identity",
+    "identity-proofing",
+    "identity-verification",
+    "jumio",
+    "kyx-link-generator"
+  ],
+  "author": "William Christopher (Jumio)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "request": "^2.88.2"
+  },
+  "bugs": {
+    "url": "https://github.com/sirwillchris/kyx-link-generator/issues"
+  },
+  "homepage": "https://github.com/sirwillchris/kyx-link-generator#readme"
+}

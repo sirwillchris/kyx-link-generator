@@ -8,7 +8,7 @@ To install the Jumio KYX Link Generator run the command `npm i kyx-link-generato
 
 ## 🚀 Usage
 
-To get started, edit the `main.js` file located within the root directory of this project and set the `links` to your desired number eg. 10. 20,30,100 etc.
+To get started, edit the `main.js` file located inside the kyx-link-generator folder of this project and set the `links` to your desired number eg. 10. 20,30,100 etc.
 
 Uncomment the preferred URL Region for Account Creation
 
@@ -17,7 +17,7 @@ Uncomment the preferred URL Region for Account Creation
   - `sgp` for Singapore
 - Set `API Key and API Secret` with your API credentials from the Jumio Portal
 
-Remember, correctly setting up correct region and API credentials is crucial for your instance of the Jumio KYX Link Generator to run properly.
+Remember, correctly setting up the correct region and API credentials is crucial for your instance of the Jumio KYX Link Generator to run properly.
 
 Once the above configuration is done, run the command
 
@@ -27,11 +27,9 @@ npm start
 
 _Please note that [Node.js](https://nodejs.org) must be installed on your machine to run this command. If not installed, download it from the official [Node.js website](https://nodejs.org)._
 
-## 📚 Documentation
+## 👨🏼‍💻 Output
 
-Want more details? Visit our comprehensive documentation guide for a thorough understanding of the Jumio KYX Link Generator, including setup instructions, best practices, troubleshooting tips, and more. We keep our documentation updated with the latest features and improvements.
-
-Access our current documentation using this link:
+Once the script is successfully executed you can see the output.csv file with the generated links in your project directory. Use these links in your iframe or web redirects.
 
 ## ❓ Need Help?
 
