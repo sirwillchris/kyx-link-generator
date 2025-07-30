@@ -65,15 +65,6 @@ Made with ❤️ by **William Christopher (Jumio)**
 
 ---
 
-## 💬 Support
-
-Need help or want to request a feature?
-
-👉 [Open an issue on GitHub](https://github.com/sirwillchris/kyx-link-generator/issues)
-
----
-
 ## 🔐 Disclaimer
 
 This CLI uses your Jumio API credentials securely to generate links. Credentials are never stored or shared.
-
